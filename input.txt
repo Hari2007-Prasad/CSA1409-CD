@@ -1,0 +1,4 @@
+Hello world
+Welcome to C programming
+I am learning C
+~
